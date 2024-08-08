@@ -1,0 +1,55 @@
+﻿@page "/CalendarModal"
+@inherits LayoutComponentBase
+@inject IModalService modal
+<div class="modal-backdrop fade @(show ? "show" : "") @(display ? "d-block" : "d-none")"></div>
+
+<div class="modal fade @(show ? "show" : "")  @(display ? "d-block" : "d-none")" tabindex="-1" role="dialog">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Login</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="mb-3">
+					<label for="loginEmail" class="form-label">Email</label>
+					<input type="email" class="form-control" id="loginEmail" placeholder="name@example.com" autocomplete="off" />
+				</div>
+				<div class="mb-3">
+					<label for="loginPassword" class="form-label">Password</label>
+					<input type="password" class="form-control" id="loginPassword" />
+				</div>
+			</div>
+			<div class="row pull-left">
+				&#8194;&#8194;&#8194;&#8194;<a style="text-decoration: underline;">Forget Password</a>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-success">Login</button>
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close222</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+@code{
+	//private LoginModel model = new LoginModel();
+	//private bool isLoggedIn = false;
+	private bool show, display, loggedIn;
+	private string? user;
+	private string? Password;
+	private bool DialogIsOpen = false;
+	private string message;
+
+	//private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+	public async Task OpenLogin()
+	{
+		display = true;
+		await Task.Delay(100);
+		show = true;
+	}
+
+}
+
+

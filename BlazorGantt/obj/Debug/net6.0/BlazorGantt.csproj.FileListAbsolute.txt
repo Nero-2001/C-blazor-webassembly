@@ -1,0 +1,214 @@
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Blazor Test\Scheduler\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\BlazorGantt-master_OKOK\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Scheduler_WeCAn_OK\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Scheduler_tata\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\Development\Scheduler_WeCAn\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\Properties\launchSettings.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\Properties\launchSettings.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\Properties\launchSettings.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+C:\แก้โปรเจค\งานพี่ทวี\Schedule_Taw_backtest\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll
+D:\upGitHub\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\Properties\launchSettings.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.staticwebassets.runtime.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.deps.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.dll
+D:\upGitHub\Schedule_Taw\BlazorGantt\bin\Debug\net6.0\BlazorGantt.pdb
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.AssemblyReference.cache
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.GeneratedMSBuildEditorConfig.editorconfig
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfoInputs.cache
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.AssemblyInfo.cs
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.csproj.CoreCompileInputs.cache
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.build.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.development.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.BlazorGantt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorGantt.props
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorGantt.props
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorGantt.props
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\staticwebassets.pack.json
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\scopedcss\bundle\BlazorGantt.styles.css
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.dll
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\refint\BlazorGantt.dll
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\BlazorGantt.pdb
+D:\upGitHub\Schedule_Taw\BlazorGantt\obj\Debug\net6.0\ref\BlazorGantt.dll

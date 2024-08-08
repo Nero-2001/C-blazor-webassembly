@@ -1,0 +1,31 @@
+﻿@page "/"
+@using CCTruckQ.Modal;
+@inject Microsoft.AspNetCore.Components.NavigationManager navigationManager
+@* @inject IJSRuntime _jsRuntime
+@inject IModalService modal *@
+
+  
+@code {
+    private bool showTest, displayTest;
+    protected override async Task OnInitializedAsync()
+    {
+         
+        await Task.Delay(0);
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+           //  navigationManager.NavigateTo("/Scheduler1", forceLoad: true);
+        }
+        await Task.Delay(0);
+    }
+    void CloseModal()
+    {
+        displayTest = false; showTest = false;
+    }
+    void Schedule1()
+    {
+        navigationManager.NavigateTo("/Scheduler1", forceLoad: true);
+    }
+}
